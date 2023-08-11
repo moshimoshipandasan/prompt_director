@@ -6,3 +6,5 @@
 # ChatGPTのプラグイン
 - [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn?hl=ja)
   - ChatGPTに音声入力
+- [JSON Beautifier & Editor](chrome-extension://lpopeocbeepakdnipejhlpcmifheolpl/data/page/index.html)
+  - JSON簡易エディター 
