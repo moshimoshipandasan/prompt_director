@@ -4,3 +4,5 @@
 - 検索する
 
 ```search("2023年アニメ Netflix")```
+
+  - https://sokuniv.com/have-chatgpt-search-explicitly/
