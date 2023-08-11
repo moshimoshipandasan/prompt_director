@@ -7,4 +7,4 @@
 
   - https://sokuniv.com/have-chatgpt-search-explicitly/
 
-    ```search("ChatGPT 最新情報", 3)```
+    ```search("Netflix アニメ 最新情報", 7)```
