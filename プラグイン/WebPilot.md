@@ -10,3 +10,5 @@
 
 
     ```search("Netflix アニメ 最新情報", 7)```
+
+参照: https://twitter.com/HaveShun/status/1658259415911534592?s=20
